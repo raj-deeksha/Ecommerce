@@ -1,0 +1,14 @@
+
+.swift{
+    margin: top 0;;
+    width: 140px;
+    
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height:70px;
+    background-color: #fff;
+    border-bottom: 1px solid;
+}
