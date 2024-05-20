@@ -1,0 +1,24 @@
+.signin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signincontainer{
+    padding:25px;
+    border:1px solid ;
+    margin: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height:21vw;
+    width:35vw;
+
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width:40%;
+}

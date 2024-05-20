@@ -4,6 +4,9 @@
   padding: 2rem;
   text-align: center;
 }
+.gap{
+  height: 10vh;
+}
 
 .logo {
   height: 6em;

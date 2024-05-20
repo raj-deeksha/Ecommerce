@@ -1,0 +1,49 @@
+.information{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+}
+.userdetails{
+display: flex;
+flex-direction: column;
+
+border:0;
+font-size: 100%;
+margin:0;
+
+gap:10px;
+
+}
+.btn{
+    align-items: center;
+    justify-content: center;
+}
+.submit{
+    width: 40%;
+    
+}
+.container{
+    padding: 25px;
+    border: 1px solid;
+    margin: 34px;
+    display: flex;
+    flex-direction: column;
+    
+    gap: 20px;
+    width: 35vw;
+}
+input{
+    width: 100%;
+}
+.account{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signup{
+    display: flex;
+    justify-content: center;
+}
